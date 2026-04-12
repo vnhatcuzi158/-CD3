@@ -1,0 +1,6 @@
+ReviewID,UserName,Rating,Comment,ProductCategory,ReviewDate,DoDaiComment
+R01,user1,5.0,San pham rat tot!,Dien Tu,2024-01-01,17
+R02,user2,4.0,Rat dep,Thoi Trang,2024-01-02,7
+R03,user3,3.0,Tam duoc,Thoi Trang,2024-01-03,8
+R04,user4,4.0,Khong hai long,Dien Tu,2024-01-04,14
+R05,user5,4.0,Okie,Phu Kien,2024-01-05,4
